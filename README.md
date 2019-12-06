@@ -1,4 +1,4 @@
-# api-test-superagent-demo
+# api-test-supertest-demo
 Demo of Javascript API testing using [Mocha](https://mochajs.org/) and [Supertest](https://github.com/visionmedia/supertest).
 
 ## Usage

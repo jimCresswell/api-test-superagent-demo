@@ -1,8 +1,8 @@
 {
-  "name": "api-test-superagent-demo",
+  "name": "api-test-supertest-demo",
   "version": "0.0.1",
   "description": "Demo of Javascript API testing using Superagent",
-  "repository": "https://github.com/jimCresswell/api-test-superagent-demo.git",
+  "repository": "https://github.com/jimCresswell/api-test-supertest-demo.git",
   "author": "jimCresswell <jim.cresswell@gmail.com>",
   "license": "MIT",
   "private": true,
